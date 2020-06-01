@@ -31,9 +31,7 @@ cacheSolve <- function(x, ...) {
    m
    
 }
-B <- matrix(c(1,2,3,4),2,2)
-B1 <- maleCacheMatrix(B)
-cacheSolve(B1)
+
 
 
 
